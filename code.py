@@ -1,7 +1,4 @@
 def factorial(n):
-    """
-    Returns factorial of n
-    """
 
     if n < 0:
         raise ValueError("Negative input not allowed")
